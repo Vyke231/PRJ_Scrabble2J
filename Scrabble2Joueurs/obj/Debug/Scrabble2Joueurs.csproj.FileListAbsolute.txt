@@ -61,3 +61,19 @@ D:\Scrabble2Joueurs\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.csproj.GenerateR
 D:\Scrabble2Joueurs\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.csproj.CoreCompileInputs.cache
 D:\Scrabble2Joueurs\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.exe
 D:\Scrabble2Joueurs\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.pdb
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.csproj.AssemblyReference.cache
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.exe.config
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.exe
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.pdb
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\bin\Debug\Scrabble2Joueurs.exe.config
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\bin\Debug\Scrabble2Joueurs.exe
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\bin\Debug\Scrabble2Joueurs.pdb
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\UI\MainWindow.g.cs
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\App.g.cs
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs_MarkupCompile.cache
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs_MarkupCompile.lref
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\UI\MainWindow.baml
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.g.resources
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.Properties.Resources.resources
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.csproj.GenerateResource.cache
+C:\Users\etudiant\Desktop\Nouveau dossier\PRJ_Scrabble2J\Scrabble2Joueurs\obj\Debug\Scrabble2Joueurs.csproj.CoreCompileInputs.cache
